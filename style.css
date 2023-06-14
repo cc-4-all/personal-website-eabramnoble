@@ -3,12 +3,19 @@
 }
 nav{
     width:100%;
+    display: flex;
     justify-content: space-between;
     padding:25px;
-    background:lightgrey
+    color: white;
 }
 main{
     width:1200px;
     margin:auto;
     text-align: center;
+    color:white ;
+}
+
+
+body {
+    background: black;
 }
